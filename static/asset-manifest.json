@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e720dbb8.css",
+    "main.js": "/portfolio/static/js/main.63b5136b.js",
+    "static/css/487.b4e60d2a.chunk.css": "/portfolio/static/css/487.b4e60d2a.chunk.css",
+    "static/js/487.2ed0bf94.chunk.js": "/portfolio/static/js/487.2ed0bf94.chunk.js",
+    "static/css/990.63b0306c.chunk.css": "/portfolio/static/css/990.63b0306c.chunk.css",
+    "static/js/990.9bdcab81.chunk.js": "/portfolio/static/js/990.9bdcab81.chunk.js",
+    "static/media/oussman4wd.png": "/portfolio/static/media/oussman4wd.140fabf716a80d529523.png",
+    "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/introduction-to-packet-tracer.png": "/portfolio/static/media/introduction-to-packet-tracer.69a2e0706e2ec6386bff.png",
+    "static/media/logo-orange.jpg": "/portfolio/static/media/logo-orange.6168e0d82855db8f7a54.jpg",
+    "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/introduction-to-cybersecurity.png": "/portfolio/static/media/introduction-to-cybersecurity.f298311d70fb327f7439.png",
+    "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/portfolio/index.html",
+    "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.e720dbb8.css.map": "/portfolio/static/css/main.e720dbb8.css.map",
+    "main.63b5136b.js.map": "/portfolio/static/js/main.63b5136b.js.map",
+    "487.b4e60d2a.chunk.css.map": "/portfolio/static/css/487.b4e60d2a.chunk.css.map",
+    "487.2ed0bf94.chunk.js.map": "/portfolio/static/js/487.2ed0bf94.chunk.js.map",
+    "990.63b0306c.chunk.css.map": "/portfolio/static/css/990.63b0306c.chunk.css.map",
+    "990.9bdcab81.chunk.js.map": "/portfolio/static/js/990.9bdcab81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e720dbb8.css",
+    "static/js/main.63b5136b.js"
+  ]
+}
